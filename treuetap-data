@@ -46,9 +46,9 @@
   },
   {
     "id": "stullerei",
-    "name": "Stullerei",
+    "name": "STULLEREI",
     "shortDescription": "Frische Sandwiches, Kaffee & mehr",
-    "bio": "**Stullerei** – die kleine Café-Bar im Herzen von Fürth.\n\nGenieße handgemachte Sandwiches, frischen Kaffee und hausgemachte Snacks. Sammle Punkte und gönn dir was Leckeres aufs Haus!",
+    "bio": "**STULLEREI** – die kleine Café-Bar im Herzen von Fürth.\n\nGenieße handgemachte Sandwiches, frischen Kaffee und hausgemachte Snacks. Sammle Punkte und gönn dir was Leckeres aufs Haus!",
     "imageUrl": "https://raw.githubusercontent.com/focus-lab/treuetap/refs/heads/main/images/stullerei%20background.jpg",
     "logoUrl": "https://raw.githubusercontent.com/focus-lab/treuetap/refs/heads/main/images/stullerei%20icon.jpg",
     "categoryIcon": "🥪",
