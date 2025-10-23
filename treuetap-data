@@ -1,0 +1,134 @@
+[
+  {
+    "id": "m1",
+    "name": "Bäckerei Sonnenschein",
+    "shortDescription": "Frisches Brot und süße Teilchen seit 1989",
+    "bio": "**Tradition trifft Handwerk.** Wir backen täglich frisch – mit ❤️ und regionalen Zutaten.\n\nProbier unsere Saison-Highlights und Limited Editions.\n\nFolge uns auf [Instagram](https://instagram.com/) oder besuche unsere [Website](https://example.com).",
+    "imageUrl": "https://your-github-username.github.io/treuetap-data/media/backgrounds/photo-bakery.jpeg",
+    "logoUrl": "https://your-github-username.github.io/treuetap-data/media/logos/bakery.png",
+    "categoryIcon": "🥐",
+    "rewards": [
+      {
+        "id": "r1",
+        "title": "Kaffee gratis",
+        "description": "Ein kleiner Kaffee deiner Wahl",
+        "pointsRequired": 50
+      },
+      {
+        "id": "r2",
+        "title": "Brot nach Wahl",
+        "description": "Ein Brot aus unserem Sortiment",
+        "pointsRequired": 120
+      },
+      {
+        "id": "r3a",
+        "title": "Frühstücks-Set",
+        "description": "Croissant + Heißgetränk",
+        "pointsRequired": 90
+      }
+    ],
+    "offers": [
+      {
+        "id": "o1",
+        "title": "Frühstücks-Deal",
+        "description": "Croissant + Kaffee",
+        "oldPrice": 4.5,
+        "newPrice": 3.9
+      },
+      {
+        "id": "o1b",
+        "title": "Feierabend-Brezel",
+        "description": "2 Brezeln zum Preis von 1 (ab 17:00)",
+        "newPrice": 1.2
+      }
+    ],
+    "location": "Nürnberg",
+    "category": "Bäckerei"
+  },
+  {
+    "id": "m2",
+    "name": "Kaffeehaus Aroma",
+    "shortDescription": "Third-wave Coffee & Kuchen",
+    "bio": "Single Origin, perfekt geröstet. Sammle Punkte bei jedem Besuch.\n\n**Öffnungszeiten**\n- Mo–Fr: 8:00–19:00\n- Sa–So: 9:00–18:00\n\n[Instagram](https://instagram.com/), [Facebook](https://facebook.com/)\n\n_Bonus: Doppelpunkte jeden Mittwoch!_",
+    "imageUrl": "https://your-github-username.github.io/treuetap-data/media/backgrounds/photo-coffee.jpeg",
+    "logoUrl": "https://your-github-username.github.io/treuetap-data/media/logos/coffee.png",
+    "categoryIcon": "☕️",
+    "rewards": [
+      {
+        "id": "r3",
+        "title": "Brownie gratis",
+        "description": "Hausgemachter Brownie",
+        "pointsRequired": 40
+      },
+      {
+        "id": "r4",
+        "title": "Flat White",
+        "description": "Ein Flat White aufs Haus",
+        "pointsRequired": 80
+      },
+      {
+        "id": "r4b",
+        "title": "Kaffee-Bohnen -20%",
+        "description": "Rabatt auf 250g Bohnen",
+        "pointsRequired": 150
+      }
+    ],
+    "offers": [
+      {
+        "id": "o2",
+        "title": "Happy Hour (16–18 Uhr)",
+        "description": "Montag–Freitag: 2 Espressi zum Preis von 1",
+        "newPrice": 2.5
+      },
+      {
+        "id": "o2b",
+        "title": "Cake Slice",
+        "description": "Kuchenstück des Tages",
+        "oldPrice": 3.5,
+        "newPrice": 2.9
+      }
+    ],
+    "location": "Fürth",
+    "category": "Café"
+  },
+  {
+    "id": "m3",
+    "name": "Bio Markt Grün",
+    "shortDescription": "Regional, saisonal, nachhaltig",
+    "bio": "Bei uns findest du frische Bio-Lebensmittel und nachhaltige Produkte.\n\n**Kontakt & Links**\n- [Website](https://example.com/biomarkt)\n- [Newsletter](https://example.com/newsletter)\n\n**Highlights**\n- Regionale Erzeuger\n- Saisonale Aktionen\n- Nachhaltige Verpackungen",
+    "imageUrl": "https://your-github-username.github.io/treuetap-data/media/backgrounds/photo-bio-market.jpeg",
+    "logoUrl": "https://your-github-username.github.io/treuetap-data/media/logos/bio_market.png",
+    "categoryIcon": "🥦",
+    "rewards": [
+      {
+        "id": "r5",
+        "title": "Gemüsekiste -5 €",
+        "description": "5 € Rabatt auf eine Gemüsekiste",
+        "pointsRequired": 150
+      },
+      {
+        "id": "r5b",
+        "title": "Nussmischung gratis",
+        "description": "100g Bio-Nussmix",
+        "pointsRequired": 110
+      }
+    ],
+    "offers": [
+      {
+        "id": "o3",
+        "title": "Bio-Äpfel (1kg)",
+        "description": "Knackig und frisch",
+        "oldPrice": 3.99,
+        "newPrice": 2.99
+      },
+      {
+        "id": "o3b",
+        "title": "Haferdrink 1L",
+        "description": "Vegan & regional",
+        "newPrice": 1.49
+      }
+    ],
+    "location": "Erlangen",
+    "category": "Bio-Markt"
+  }
+]
