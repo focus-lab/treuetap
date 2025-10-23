@@ -1,9 +1,9 @@
 [
   {
     "id": "platzundbleib",
-    "name": "Platz und Bleib",
+    "name": "Platz & Bleib",
     "shortDescription": "Tierbedarf & Zubehör mit Herz",
-    "bio": "**Platz und Bleib** – dein Fachgeschäft für Hund, Katze & Co.\n\nWir bieten hochwertige Tiernahrung, Spielzeug und Zubehör. Sammle Punkte bei jedem Einkauf und löse sie gegen tolle Prämien ein!",
+    "bio": "**Platz & Bleib** – dein Fachgeschäft für Hund, Katze & Co.\n\nWir bieten hochwertige Tiernahrung, Spielzeug und Zubehör. Sammle Punkte bei jedem Einkauf und löse sie gegen tolle Prämien ein!",
     "imageUrl": "https://raw.githubusercontent.com/focus-lab/treuetap/refs/heads/main/images/platz%20und%20bleib%20background.jpg",
     "logoUrl": "https://raw.githubusercontent.com/focus-lab/treuetap/refs/heads/main/images/platz%20und%20bleib%20icon.jpg",
     "categoryIcon": "🐾",
