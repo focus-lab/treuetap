@@ -7,6 +7,9 @@
     "imageUrl": "https://raw.githubusercontent.com/focus-lab/treuetap/refs/heads/main/images/platz%20und%20bleib%20background.jpg",
     "logoUrl": "https://raw.githubusercontent.com/focus-lab/treuetap/refs/heads/main/images/platz%20und%20bleib%20icon.jpg",
     "categoryIcon": "🐾",
+    "welcomeOffer": {
+      "description": "5 € Rabatt beim ersten Einkauf ab 25 €"
+    },
     "rewards": [
       {
         "id": "r1",
@@ -38,7 +41,7 @@
         "id": "o2",
         "title": "Happy Pet Days",
         "description": "Jeden Freitag 15% auf Tierfutter",
-        "newPrice": null
+        "newPrice": 0.0
       }
     ],
     "location": "Nürnberg",
@@ -52,6 +55,9 @@
     "imageUrl": "https://raw.githubusercontent.com/focus-lab/treuetap/refs/heads/main/images/stullerei%20background.jpg",
     "logoUrl": "https://raw.githubusercontent.com/focus-lab/treuetap/refs/heads/main/images/stullerei%20icon.jpg",
     "categoryIcon": "🥪",
+    "welcomeOffer": {
+      "description": "Sandwich + Kaffee zum Kennenlernpreis von 5,90 €"
+    },
     "rewards": [
       {
         "id": "r1",
